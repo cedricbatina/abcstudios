@@ -1,0 +1,155 @@
+.creation_date {
+ color: #888;
+ font-style: italic;
+}
+.logo {
+ width: 280px;
+ height: 280px;
+      transition: transform 750ms ease-in;
+        transform-origin: initial;
+
+}
+.logo:hover {
+  text-align: center;
+  transform: scale(1.1);
+    
+}
+.site_name {
+ font-size: xx-large;
+ color: #ff4500;
+}
+a{
+ text-decoration-line: none;
+}
+.navbar {
+ background-color: #141414;
+ 
+}
+.navbar-link {
+ color: #ff4500;
+ font-size: larger;
+}
+.navbar-link:hover {
+ color:bisque
+}
+strong {
+font-weight: 600;}
+p {
+ font-weight: 600;
+}
+h3{
+ font-weight: 600;
+ font-size: larger;
+}
+h5{
+  font-size: small;
+ font-weight: 600;
+ color: #ff4500;
+
+}
+
+
+.services_title {
+  color: #ff4500;
+  font-size:xx-large;
+ 
+}
+.services_title:hover {
+ opacity: 0.8;
+
+
+}
+.showed_creation {
+   /*max-width: 600px;
+  max-height: 650px;*/
+   display: block;
+  margin: 0 auto;
+  max-width: 80%;
+  max-height: 80%;
+}
+
+  
+
+.card-img-top {
+  max-width: 400px;
+  max-height: 450px;
+  
+  border-radius: 5%;
+  transition: transform 750ms ease-in;
+        transform-origin: initial;
+}
+.card-img-top:hover{
+   transform: scale(1.05);
+}
+
+
+footer{
+ background-color: #141414;
+color:bisque;}
+.card{
+  border: 1px solid #ff4500;
+     display: block;
+  margin: 0 auto;
+}
+.btn {
+  background-color: #ff4500;
+  color: bisque;
+  margin: auto;
+    
+}
+textarea {
+  height: 300px;
+}
+
+
+
+.phone_number {
+  color: #ff4500;
+  font-size: larger;
+  display: inline;
+}
+.email_address {
+  color: #ff4500;
+  font-size: larger;
+  display: inline;
+
+}
+.studios{
+  color: #ff4500;
+  font-size: larger;
+}
+.studios:hover{
+  opacity: 0.8;
+}
+.copyright{
+  font-size: larger;
+  color: #ff4500;
+}
+i{
+  font-size: 2em;
+  
+  transition: transform 550ms ease-in;
+        transform-origin: initial;
+}
+
+i:hover{
+ transform: scale(1.1);
+
+}
+hr{
+  border: 1px solid #ff4500;
+}
+.form-control {
+  border: 1px solid #ff4500;
+  
+}
+.fa-brands {
+  color: bisque;
+}
+a{
+  text-decoration: none;
+}
+.titre{
+  font-size: larger;
+  font-weight: bold;
+}
